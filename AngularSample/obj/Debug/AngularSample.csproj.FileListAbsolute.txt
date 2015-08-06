@@ -1,0 +1,13 @@
+C:\Users\Manoj.INTELNET\Desktop\Sample Projects\AngularSample\AngularSample\bin\AngularJSWebApiEmpty.dll
+C:\Users\Manoj.INTELNET\Desktop\Sample Projects\AngularSample\AngularSample\bin\AngularJSWebApiEmpty.pdb
+C:\Users\Manoj.INTELNET\Desktop\Sample Projects\AngularSample\AngularSample\bin\Newtonsoft.Json.dll
+C:\Users\Manoj.INTELNET\Desktop\Sample Projects\AngularSample\AngularSample\bin\System.Net.Http.Formatting.dll
+C:\Users\Manoj.INTELNET\Desktop\Sample Projects\AngularSample\AngularSample\bin\System.Web.Http.dll
+C:\Users\Manoj.INTELNET\Desktop\Sample Projects\AngularSample\AngularSample\bin\System.Web.Http.WebHost.dll
+C:\Users\Manoj.INTELNET\Desktop\Sample Projects\AngularSample\AngularSample\bin\Newtonsoft.Json.xml
+C:\Users\Manoj.INTELNET\Desktop\Sample Projects\AngularSample\AngularSample\bin\System.Net.Http.Formatting.xml
+C:\Users\Manoj.INTELNET\Desktop\Sample Projects\AngularSample\AngularSample\bin\System.Web.Http.xml
+C:\Users\Manoj.INTELNET\Desktop\Sample Projects\AngularSample\AngularSample\bin\System.Web.Http.WebHost.xml
+C:\Users\Manoj.INTELNET\Desktop\Sample Projects\AngularSample\AngularSample\obj\Debug\AngularSample.csprojResolveAssemblyReference.cache
+C:\Users\Manoj.INTELNET\Desktop\Sample Projects\AngularSample\AngularSample\obj\Debug\AngularJSWebApiEmpty.dll
+C:\Users\Manoj.INTELNET\Desktop\Sample Projects\AngularSample\AngularSample\obj\Debug\AngularJSWebApiEmpty.pdb

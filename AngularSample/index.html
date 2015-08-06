@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>KRESS Employment Screening - Vendor Portal</title>
+</head>
+<body ng-app="vendorApp">
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-animate.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="App/app.js"></script>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script src="Scripts/bootstrap.js"></script>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">
+                    KRESS Employment Screening
+                </a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="/">Bootstrap</a></li>
+                    <li><a href="#">Foundation</a></li>
+                </ul>
+                <ul class="nav navbar-nav pull-right">
+                    <li><a class="#">Preview</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="view-container">
+        <div ng-view class="view-frame"></div>
+    </div>
+
+
+    <div>{{2+1}}</div>
+</body>
+</html>
